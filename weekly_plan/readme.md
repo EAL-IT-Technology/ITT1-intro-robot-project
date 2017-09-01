@@ -4,4 +4,4 @@ This is “live”,  It will be updating weekly.
 
 For the formal requirements of the project, see fronter
 
-For the project description, see companion site: [raspberryfun](https://moozer.github.io/RaspberryFun/)
+For the project description, see companion site: [raspberryfun](https://eal-it-technology.github.io/RaspberryFun/)
